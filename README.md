@@ -10,5 +10,5 @@ The assignment tasks students with building the "Chess Vikings" game, with detai
 ## Solution Repository
 The solution for this task can be found in a separate repository. It includes the implementation of all the necessary classes and interfaces according to the assignment requirements.
 
-[Solution Repository](link_to_solution_repository)
+[Solution Repository](https://github.com/MosheOfer1/Hnefatafl_OOP1_solution)
 
